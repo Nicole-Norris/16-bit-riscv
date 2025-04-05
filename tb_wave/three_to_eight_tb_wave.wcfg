@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/Desktop/fpga_course_project/risc_computer_16bits/three_to_eight_decoder_three_to_eight_decoder_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="three_to_eight_decoder_three_to_eight_decoder_sch_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Enable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Enable</obj_property>
+      <obj_property name="ObjectShortName">Enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="vbus14" type="vbus" db_ref_id="1">
+      <obj_property name="label">input</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/X2" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">X2</obj_property>
+         <obj_property name="ObjectShortName">X2</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/X1" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">X1</obj_property>
+         <obj_property name="ObjectShortName">X1</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/X0" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">X0</obj_property>
+         <obj_property name="ObjectShortName">X0</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus15" type="vbus" db_ref_id="1">
+      <obj_property name="label">output</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y0" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y0</obj_property>
+         <obj_property name="ObjectShortName">Y0</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y1" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y1</obj_property>
+         <obj_property name="ObjectShortName">Y1</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y2" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y2</obj_property>
+         <obj_property name="ObjectShortName">Y2</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y3" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y3</obj_property>
+         <obj_property name="ObjectShortName">Y3</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y4" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y4</obj_property>
+         <obj_property name="ObjectShortName">Y4</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y5" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y5</obj_property>
+         <obj_property name="ObjectShortName">Y5</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y6" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y6</obj_property>
+         <obj_property name="ObjectShortName">Y6</obj_property>
+      </wvobject>
+      <wvobject fp_name="/three_to_eight_decoder_three_to_eight_decoder_sch_tb/Y7" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">Y7</obj_property>
+         <obj_property name="ObjectShortName">Y7</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
