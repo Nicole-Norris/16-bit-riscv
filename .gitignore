@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow directories to be traversed
+!*/
+
+# Except the following files and folders
+!tb_wave/*
+!part_schematics/*
+!part_tb/*
+!.gitignore
