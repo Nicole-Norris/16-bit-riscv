@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/Xilinx_ISE/risc_computer_16bits/mem_256x16_mem_256x16_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="mem_256x16_mem_256x16_sch_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/RDATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RDATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RDATA[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/WDATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">WDATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">WDATA[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/ADDR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ADDR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/CLK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/WE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">WE</obj_property>
+      <obj_property name="ObjectShortName">WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mem_256x16_mem_256x16_sch_tb/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>
