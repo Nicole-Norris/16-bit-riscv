@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/Xilinx_ISE/risc_computer_16bits/full_adder_16bit_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="full_adder_16bit_sch_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/full_adder_16bit_sch_tb/CIN" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CIN</obj_property>
+      <obj_property name="ObjectShortName">CIN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_adder_16bit_sch_tb/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[15:0]</obj_property>
+      <obj_property name="ObjectShortName">A[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_adder_16bit_sch_tb/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[15:0]</obj_property>
+      <obj_property name="ObjectShortName">B[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_adder_16bit_sch_tb/COUT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">COUT</obj_property>
+      <obj_property name="ObjectShortName">COUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/full_adder_16bit_sch_tb/S" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S[15:0]</obj_property>
+      <obj_property name="ObjectShortName">S[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>
